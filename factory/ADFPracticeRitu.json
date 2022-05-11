@@ -1,0 +1,9 @@
+{
+	"name": "ADFPracticeRitu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "97a1a8ab-ad4e-43ef-8ddc-ad34307e17ca",
+		"tenantId": "23fab5a9-a23c-4de4-9803-03d7ce811202"
+	}
+}
